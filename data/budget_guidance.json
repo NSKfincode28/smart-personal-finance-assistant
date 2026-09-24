@@ -1,0 +1,22 @@
+{
+    "food": {
+        "description": "Food includes groceries, restaurants and eating outside.",
+        "guidance": "Track restaurant and eating-out expenses separately and set a monthly food budget."
+    },
+    "travel": {
+        "description": "Travel includes fuel, public transport, taxis and other transportation.",
+        "guidance": "Separate essential travel from optional travel and review unnecessary trips."
+    },
+    "shopping": {
+        "description": "Shopping includes clothing, electronics and other purchases.",
+        "guidance": "Before non-essential purchases, consider whether the purchase is necessary."
+    },
+    "entertainment": {
+        "description": "Entertainment includes movies, games, subscriptions and recreational activities.",
+        "guidance": "Set a monthly entertainment limit and review recurring subscriptions."
+    },
+    "bills": {
+        "description": "Bills include regular household and service payments.",
+        "guidance": "Track recurring bills and identify subscriptions or services that are no longer needed."
+    }
+}
